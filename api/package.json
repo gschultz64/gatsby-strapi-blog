@@ -19,9 +19,10 @@
     "eslint-plugin-react": "^6.8.0"
   },
   "dependencies": {
+    "deep-extend": "^0.5.1",
     "gatsby-source-strapi": "0.0.3",
     "lodash": "4.x.x",
-    "strapi": "3.0.0-alpha.14.1.1",
+    "strapi": "^3.0.0-alpha.14.4.0",
     "strapi-hook-mongoose": "3.0.0-alpha.14.1.1"
   },
   "author": {
